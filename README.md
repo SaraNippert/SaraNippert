@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SaraNippert
-- 👀 I’m interested in developing my skills as a full-stack software engineer, learning languages (computer and human), and building computers.
+- 👀 I’m interested in developing my skills as a full-stack software engineer, learning languages (computer and human), building computers, and modding Stardew Valley.
 - 🌱 I’m currently learning how to create webpages from the database through to the HTML.
 - 💞️ I’m looking to collaborate on experimenting with new technologies.
 - 📫 Reach me at: saranippert@outlook.com
